@@ -52,3 +52,8 @@ python testing.py
 ```
 
 You can modify the input text in `testing.py` to test different reviews.
+
+![alt text](image.png)
+
+
+![alt text](<Screenshot 2025-12-10 084827.png>)

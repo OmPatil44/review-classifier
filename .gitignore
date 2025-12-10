@@ -1,0 +1,15 @@
+# Ignore virtual environment
+.venv/
+
+# Ignore Jupyter Notebook
+.ipynb_checkpoints
+
+# Ignore Python version
+.python-version
+
+# VS Code 
+.vscode/
+
+# Cache Files
+.__pycache__/
+

@@ -7,7 +7,7 @@ import tensorflow as tf
 from tensorflow.keras.layers import LSTM, Embedding, Dense, Dropout, TextVectorization, Bidirectional
 from tensorflow.keras.models import Sequential
 from sklearn.model_selection import train_test_split
-import classifier
+from model_config import classifier
 
 PATH = './dataset/IMDB Dataset.csv'
 MAX_SEQUENCE_LENGTH = 500
